@@ -1,0 +1,14 @@
+Lucid - release builds
+Copyright (c) 2026 Jacek Podanowski. All rights reserved.
+
+You may download and use Lucid for personal, non-commercial purposes.
+You may not redistribute, re-host, sell, modify, decompile or reverse engineer
+the files in this repository, or publish derived versions, without written
+permission from the copyright holder.
+
+The software is provided "as is", without warranty of any kind. The author is
+not liable for any damage or data loss arising from its use.
+
+Lucid includes third-party open-source components (for example Flutter,
+ONNX Runtime and sherpa-onnx), which remain under their own licenses; the list
+is shown in the app's license page.
