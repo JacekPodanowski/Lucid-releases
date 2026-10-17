@@ -1,0 +1,18 @@
+{
+    "version":  "1.0.0",
+    "updated":  "2026-10-17",
+    "files":  {
+                  "android":  {
+                                  "file":  "Lucid-latest.apk",
+                                  "mb":  49.7
+                              },
+                  "android32":  {
+                                    "file":  "Lucid-latest-armeabi-v7a.apk",
+                                    "mb":  39.5
+                                },
+                  "ios":  {
+                              "file":  "Lucid-latest.ipa",
+                              "mb":  20.8
+                          }
+              }
+}
