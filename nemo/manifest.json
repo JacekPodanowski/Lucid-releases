@@ -1,0 +1,49 @@
+{
+ "model": "nemo-fastconformer-transducer-multi-int8",
+ "files": [
+  {
+   "name": "tokens.txt",
+   "parts": [
+    {
+     "file": "tokens.txt",
+     "bytes": 24057
+    }
+   ]
+  },
+  {
+   "name": "decoder.int8.onnx",
+   "parts": [
+    {
+     "file": "decoder.int8.onnx",
+     "bytes": 4938903
+    }
+   ]
+  },
+  {
+   "name": "joiner.int8.onnx",
+   "parts": [
+    {
+     "file": "joiner.int8.onnx",
+     "bytes": 2397368
+    }
+   ]
+  },
+  {
+   "name": "encoder.int8.onnx",
+   "parts": [
+    {
+     "file": "encoder.int8.onnx.part00",
+     "bytes": 45000000
+    },
+    {
+     "file": "encoder.int8.onnx.part01",
+     "bytes": 45000000
+    },
+    {
+     "file": "encoder.int8.onnx.part02",
+     "bytes": 41113588
+    }
+   ]
+  }
+ ]
+}
